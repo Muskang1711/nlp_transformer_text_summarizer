@@ -1,4 +1,4 @@
-# 🧠 Advanced Text Summarizer using Transformers (BART/T5)
+# 🧠 Advanced Text Summarizer using Transformers (BERT/T5)
 
 This project demonstrates a powerful **NLP-based Text Summarizer** built using **Transformer models** like BART or T5 from HuggingFace. It takes long texts and generates concise summaries that retain the meaning and context, similar to human-level summarization.
 
